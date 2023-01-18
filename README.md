@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1rda
-- 👀 I’m interested in Pentesting
+- 👀 I’m interested in Network Engineering
 - 🌱 I’m currently learning Computer Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
